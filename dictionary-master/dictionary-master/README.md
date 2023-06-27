@@ -17,7 +17,7 @@ The Dictionary Application is a feature-rich software tool that enables users to
 
 ## Installation
 
-1. Clone the repository: ``
+1. Clone the repository: `https://github.com/GiorgiOniani/Finaluri`
 2. Install dependencies: `npm install`
 3. Start the application: `npm run dev`
 
@@ -49,5 +49,5 @@ Please ensure that your code follows the existing coding style and includes appr
 
 If you have any questions, suggestions, or issues regarding this application, please feel free to contact me at [giorgi.oniani.2@btu.edu.ge].
 
-Project Link: 
+Project Link: https://github.com/GiorgiOniani/Finaluri
 
